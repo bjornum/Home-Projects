@@ -1,0 +1,66 @@
+/*background colors*/
+
+.black{background-color:black;}
+.lightgrey{background-color:lightgrey;}
+.lightgrey-dark{background-color:rgb(134, 122, 122);}
+.dark-grey{background-color:rgb(85, 82, 82);}
+.grey{background-color:grey;}
+.blue{background-color:blue;}
+.lightblue{background-color:lightblue;}
+.red{background-color:red;}
+.green{background-color:green;}
+.greenyellow{background-color:greenyellow;}
+.white{background-color:white;}
+.orange{background-coloe:orange;}
+.purple{background-color:purple;}
+.lime{background-color:lime;}
+
+/*background color end*/
+
+/*div*/
+
+.info{color:blue;}
+.info-light{color:rgb(67, 67, 247);}
+.info-dark{color:rgb(6, 6, 185);}
+
+.success{color:green;} 
+.success-light{color:rgb(6, 190, 6);}
+.success-dark{color:rgb(2, 88, 2);}
+
+.warning{color:orange}
+.warning-light{color:rgb(238, 186, 89);}
+.warning-dark{color:rgb(190, 125, 4);}
+
+.danger{color:red;}
+.danger-light{color:rgb(236, 74, 74);}
+.danger-dark{color:rgb(192, 7, 7);}
+
+.inactive{color:gray;}
+.inactive-light{color:rgb(170, 165, 165);}
+.inactive-dark{color:rgb(83, 83, 83);}
+
+
+/*div end*/
+
+/*links*/
+
+.a:link{
+    color: white;
+}
+
+a:visited{
+    color:rgb(33, 57, 124);
+    background-color:black;
+}
+
+a:hover{
+    color:white;
+    background-color:rgb(29, 21, 21);
+}
+
+a:active{
+    color:green;
+    background-color:rgb(29, 21, 21);
+}
+
+/*links end*/
