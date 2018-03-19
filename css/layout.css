@@ -1,3 +1,19 @@
-/*borders*/
 
+/*borders*/
+/* all 1px and black */
 .border-solid{border:solid 1px black;}
+.border-dotted{border:dotted 1px black;}
+.border-dashed{border:dashed 1px black;}
+.border-double{border:double 1px black;}
+.border-groove{border:groove 1px black;}
+
+/*specify each side of the border*/
+.border-edit{
+    border-top-style:solid;
+    border-right-style:double;
+    border-bottom-style:dotted;
+    border-left-style:dashed;
+}
+
+/*borders end*/
+
